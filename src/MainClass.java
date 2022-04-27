@@ -11,8 +11,7 @@ public class MainClass {
 		System.out.println("Ciurlia Rizzello");
 		System.out.println("Ponzetta Fabiano");
 		System.out.println("Turco Simone");
-		System.out.println("Reho Lorenzo");
-
+		
 	}
 
 }
